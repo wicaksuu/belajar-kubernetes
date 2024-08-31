@@ -1,11 +1,22 @@
-# Belajar Kubernetes
+# Panduan Belajar Kubernetes
 
-Ini adalah source code untuk materi screencast :
+## Deskripsi
 
-https://www.youtube.com/playlist?list=PL-CtdCApEFH8XrWyQAyRd6d_CKwxD8Ime
+Kubernetes adalah platform open-source yang dirancang untuk mengelola beban kerja dan layanan yang tercontainerisasi, dengan menyediakan konfigurasi deklaratif dan otomatisasi. Platform ini memiliki ekosistem yang luas dan terus berkembang. Banyak layanan, dukungan, dan alat yang tersedia untuk Kubernetes.
 
-Anda bisa melihat slide materinya disini :
+## Fitur Utama
 
-https://docs.google.com/presentation/d/1NJQqJd89k1od_o9Kz-79IQ_CQYDCJKWunCtpgkHQLi4/edit?usp=sharing
+- **Otomatisasi**: Mengotomatisasi deployment, scaling, dan manajemen aplikasi container.
+- **Skalabilitas**: Mendukung skala aplikasi dari beberapa container hingga ribuan container.
+- **Manajemen Layanan**: Memungkinkan pengelolaan layanan dengan load balancing, penyembuhan otomatis, dan rollouts/rollbacks.
 
+## Instalasi
 
+Untuk panduan instalasi Kubernetes di lingkungan produksi, silakan kunjungi repositori berikut:
+
+[Konfigurasi Server Gresik](https://github.com/wicaksuu/konfigurasi-server-gresik)
+
+## Sumber Daya Tambahan
+
+- [Dokumentasi Resmi Kubernetes](https://kubernetes.io/docs/)
+- [Tutorial Kubernetes di YouTube](https://www.youtube.com/results?search_query=kubernetes+tutorial)
