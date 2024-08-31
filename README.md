@@ -54,7 +54,7 @@ Untuk panduan instalasi Kubernetes di lingkungan produksi, kunjungi repositori b
    - Referensi untuk belajar lebih lanjut.
    - Cara bergabung dengan komunitas Kubernetes.
 
-[Silahkan Lihat Materi PPT](https://docs.google.com/presentation/d/1iI65YNcUKDFeRrUdtQ3PyaH24YYUcqBT/edit#slide=id.p50)
+[Silahkan Lihat Materi PPT](https://docs.google.com/presentation/d/1iI65YNcUKDFeRrUdtQ3PyaH24YYUcqBT/edit?usp=sharing&ouid=109946268736964388440&rtpof=true&sd=true)
 
 ## Sumber Daya Tambahan
 
